@@ -12,5 +12,12 @@
         "cubicle_number": "ABC-3456",
         "evm_name": "j721e_evm",
         "evm_serial_number": "abc246"
+    },
+    {
+        "person_name": "sai",
+        "aid": "a0497644",
+        "cubicle_number": "155",
+        "evm_name": "j721e_evm",
+        "evm_serial_number": "456"
     }
 ]
